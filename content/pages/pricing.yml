@@ -3,32 +3,34 @@ intro: Find the plan that’s right for you
 packages:
   - name: Basic
     desc: We review your bookkeeping and prepare local tax returns
-    pricing: Starting $700
+    pricing: Starting $900
     feature-title: "Includes:"
     feature:
-      - text: Monthly CPA review of your financials
-      - text: Monthly adjusting entries for inventory, prepaids, and accruals
+      - text: Monthly review of bookkeeping & posting of GAAP adjusting entries
       - text: GAAP financials and month end reports
       - text: Preparation and filing of local tax returns
       - text: Cash flow provisions for local taxes
+      - text: General accounting and business advisory
   - name: Standard
     desc: We review your bookkeeping and prepare local & federal tax returns
-    pricing: Starting $1,000
+    pricing: Starting $1,300
     feature-title: "Everything in Basic package plus:"
     feature:
       - text: Preparation of your federal and state tax returns
       - text: Year end tax planning
       - text: Quarterly estimated tax payment vouchers
       - text: Cash flow provisions for federal taxes
+      - text: "IRC Section 280E advisory "
   - name: Premium
     desc: We do bookkeeping and prepare local & federal tax returns
-    pricing: Starting $1,500
+    pricing: Starting $1,800
     feature-title: "Everything in Standard package plus:"
     feature:
       - text: Data entry of expenses and deposits
       - text: Bank and Credit Card reconciliations
       - text: "Cost of accounting software "
       - text: Support docs attached to transactions
+      - text: CFO Services
 faqs:
   - question: Do you charge by the hour?
     answer: We avoid billing by the hour whenever it’s possible. It creates
